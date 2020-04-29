@@ -67,4 +67,20 @@ ul{
     justify-content: flex-end;
 }
 
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    border:0;
+    font-weight: bold;
+    padding:10px 20px;
+    background: #00838f;
+    color: #ffffff;
+    font-size: 15px;
+    border: 1px solid #ffff;
+    margin: 10ox 0;
 
+}
+
+.btn:hover{
+    opacity: .7;
+}
