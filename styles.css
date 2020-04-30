@@ -124,3 +124,22 @@ hr{
 .news-cards a:hover{
     text-decoration: underline;
 }
+
+/*Cards banner one*/
+.cards-banner-one{
+    width: 100%;
+    height: 330px;
+    background-color: burlywood;
+    margin-bottom: 40px;
+}
+
+.cards-banner-one .content{
+    width: 40%;
+    padding: 90px 0 0 30px;
+    color: black;
+}
+
+.cards-banner-one p,
+.cards-banner-one h2{
+    margin: 10px 0 20px 0;
+}
