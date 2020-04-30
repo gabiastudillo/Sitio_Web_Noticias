@@ -192,3 +192,18 @@ hr{
 .footer-container ul li{
     line-height: 1.8;
 }
+
+.footer{
+    line-height: 2.8;
+}
+
+.footer{
+    background: #2f3640;
+    color: 616161;
+    font-size: 12px;
+    padding: 20px 0;
+    text-align: center;
+    padding: 20px 0;
+    text-align: center;
+    padding-bottom: 20px;
+}
